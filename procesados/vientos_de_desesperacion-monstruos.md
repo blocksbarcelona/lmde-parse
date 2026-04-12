@@ -54,14 +54,4 @@ Criaturas y monstruos extraídos del módulo **vientos_de_desesperacion.pdf** (L
 - **PV:** 16 (máximo posible para su dado de vida)
 - **Descripción:** Ocultos en los sótanos de las estancias de Radovan. Estadísticas idénticas a los zombis del manual básico salvo que tienen el máximo de PV posible.
 
----
 
-## Índice de páginas
-
-| Monstruo | Página |
-|----------|--------|
-| Galernius (Elemental demoníaco) | 3, 4, 6, 7, 8, 9, 14, 15 |
-| Josua Lorent (Hombre demente) | 13 (aprox.) |
-| Radovan (Vampiro) | 11, 12, 13, 14, 15 |
-| Vampiro Esclavo (Farmur, Gleoff, Priscilla) | 11, 12, 14, 15 |
-| Zombis de la Abadía | 11, 12 |

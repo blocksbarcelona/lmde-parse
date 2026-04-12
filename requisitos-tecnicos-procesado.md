@@ -94,24 +94,35 @@ Se usa **un único notebook** para todos los libros. Los sources se acumulan y s
 
 ---
 
+## Archivos excluidos
+
+El archivo `no-procesar.md` (en la raíz de este repositorio) lista los archivos que **no deben procesarse** por estar fuera del scope: manuales de reglas, bestiarios y suplementos genéricos.
+
+**Al inicio de cada sesión**, leer `no-procesar.md` antes de determinar el siguiente archivo a procesar.
+
+---
+
 ## Flujo de procesado por PDF
 
 ```
-1. git lfs pull --include="codex/content/es/posts/downloads/<archivo>.pdf"
+0. Leer no-procesar.md y excluir esos archivos de la cola de procesado.
 
-2. notebooklm use 7d383414-68ec-4e76-a226-c63a5091e5bc
+1. notebooklm use 7d383414-68ec-4e76-a226-c63a5091e5bc
    notebooklm source add "<ruta_absoluta_al_pdf>" --json
    # → anota el source_id devuelto
 
-3. notebooklm source wait <source_id> --timeout 300
+2. notebooklm source wait <source_id> --timeout 300
 
-4. (en paralelo)
+3. (en paralelo)
    notebooklm ask "Extrae todos los conjuros con descripción mecánica..." -s <source_id>
    notebooklm ask "Extrae todas las criaturas con estadísticas de combate..." -s <source_id>
 
-5. Crear archivos:
+4. Crear archivos en local:
    procesados/<nombre-pdf>-conjuros.md
    procesados/<nombre-pdf>-monstruos.md
+
+5. Push a GitHub: SOLO cuando el usuario lo solicite explícitamente.
+   (Se procesan varios PDFs en local antes de hacer push)
 ```
 
 ### Prompts de extracción

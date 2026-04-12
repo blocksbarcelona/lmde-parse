@@ -51,6 +51,15 @@ Los detalles técnicos completos están en [`requisitos-tecnicos-procesado.md`](
 | tn1-pacto-de-cenizas | ✓ | ✓ |
 | suplemento_reglas_ALMDE | — | — |
 | sepultura-del-honor | — | ✓ |
+| s1-la-gesta-del-enano | — | ✓ |
+| retorno-al-castillo-de-varania | — | ✓ |
+| retorno-a-brookmere | — | ✓ |
+| rastilon | — | ✓ |
+| pozos-envenenados | — | ✓ |
+| corona-de-sal | — | ✓ |
+| la-torre-del-sabio | — | ✓ |
+| ladrones-de-cadaveres | — | ✓ |
+| lme-el-senuelo | — | ✓ |
 
 ✓ = tiene contenido extraído · — = sin stats propias, remite al manual base
 

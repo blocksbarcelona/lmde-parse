@@ -39,21 +39,3 @@ Conjuros extraídos del módulo **vientos_de_desesperacion.pdf** (La Marca del E
 
 ### Localizar Objeto
 - **Contexto:** Mencionado como nota al Narrador: los jugadores no podrán usarlo para encontrar el libro que buscan en la abadía, ya que desconocen su nombre y aspecto exacto.
-
----
-
-## Índice de páginas
-
-| Conjuro | Página |
-|---------|--------|
-| Bola de fuego | 15 |
-| Controlar el Clima | 15 |
-| Detectar Magia | 15 |
-| Disipar Magia | 15 |
-| Fuerza Fantasmal | 11 |
-| Hechizar Persona | 11 |
-| Leer Lenguas | 11 |
-| Localizar Objeto | 14 |
-| Nube Aniquiladora | 8, 15 |
-| Percepción Extra Sensorial | 15 |
-| Ver Realmente | 15 |

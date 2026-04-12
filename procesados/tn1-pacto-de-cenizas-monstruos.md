@@ -106,31 +106,3 @@ Extraído del módulo **tn1-pacto-de-cenizas.pdf** (La Marca del Este).
 ## Criaturas sin estadísticas (tabla de encuentros aleatorios)
 
 Gnolls, berserkers ungolitas, gusano carroñero, gules y sombras — el DJ debe consultar el manual base.
-
----
-
-## Índice de páginas
-
-| Monstruo | Página |
-|----------|--------|
-| Almacor (Líder bandido) | 83, 84, 86, 87 |
-| Bandido | 83, 84, 86, 87, 89, 91, 92 |
-| Brunn "Martillo de Ira" (Clériga) | 17–19 |
-| Cauchemar | 6, 7, 8, 13, 17, 18, 25, 26, 27 |
-| Deran Kor (Mago) | 172 |
-| Elemental de agua | 134 |
-| Enano (Mercader de Myrthis) | 23, 45, 46, 47, 48 |
-| Esqueleto | 124, 126 |
-| Gormuz (Líder bárbaro) | 7, 18, 19, 20, 38, 39, 119 |
-| Gnolls | 126 |
-| Gules | 126 |
-| Gusano carroñero | 126 |
-| Isabelle Ermengar (Ladrona) | 14, 15 |
-| Lodo verde | 142, 143 |
-| Maleagant (o Clérigo sustituto) | 7, 18, 19, 20, 116, 118, 120, 121, 122 |
-| Perro (mascota sectarios) | 111, 146, 147, 149 |
-| Sarkus Donovan (Guerrero) | 16, 17 |
-| Sectario Orden de las Cenizas | 7, 18, 19, 20, 22, 23, 116, 118, 120, 121 |
-| Sombras | 127 |
-| Titania (Hada) | 96, 97, 98, 100, 101, 104, 107 |
-| Zombi | 124, 126 |

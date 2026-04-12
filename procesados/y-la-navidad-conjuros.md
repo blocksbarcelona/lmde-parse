@@ -41,13 +41,3 @@ Santa Klaus posee poderes mágicos supremos descritos narrativamente pero no est
 
 - **Portal de transporte** — capacidad de abrir portales para transportarse.
 - **Reconstrucción** — puede reconstruir de golpe la aldea de Nivoria y su fábrica.
-
----
-
-## Índice de páginas
-
-| Conjuro | Página |
-|---------|--------|
-| Cono de Frío | 40 |
-| Crea ayudantes | 40 |
-| Invocar serpientes | 40 |
