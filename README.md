@@ -36,7 +36,7 @@ Los detalles técnicos completos están en [`requisitos-tecnicos-procesado.md`](
 
 ## Estado
 
-108 módulos PDF en total. Se procesan en orden cronológico inverso (más reciente primero). **50 procesados.**
+108 módulos PDF en total. Se procesan en orden cronológico inverso (más reciente primero). **60 procesados.**
 
 | Módulo | Conjuros | Monstruos |
 |--------|----------|-----------|
@@ -90,6 +90,16 @@ Los detalles técnicos completos están en [`requisitos-tecnicos-procesado.md`](
 | elultimocaballerodelaordenescarlata | — | ✓ |
 | la-colina-del-avispon | — | ✓ |
 | la-cala | — | ✓ |
+| B4-muerte-en-la-mansion-del-mago-malifax | — | ✓ |
+| b15-las-minas-del-elefante | — | ✓ |
+| b5-incursion-a-la-tierra-del-dios-azul | — | ✓ |
+| b11-las-cuevas-del-clan-atronador | — | ✓ |
+| el-tumulo-del-rey-orco | — | ✓ |
+| el-legado-de-mushasi | — | ✓ |
+| laaldeaasoladaporlamuerte | — | ✓ |
+| el_pantano_de_los_suspiros | — | ✓ |
+| b7-presentes-sangrientos | — | ✓ |
+| ho1-lo-que-el-ojo-no-ve | — | ✓ |
 
 ✓ = tiene contenido extraído · — = sin stats propias, remite al manual base
 
