@@ -36,7 +36,7 @@ Los detalles técnicos completos están en [`requisitos-tecnicos-procesado.md`](
 
 ## Estado
 
-108 módulos PDF en total. Se procesan en orden cronológico inverso (más reciente primero). **60 procesados.**
+108 módulos PDF en total. Se procesan en orden cronológico inverso (más reciente primero). **62 procesados.**
 
 | Módulo | Conjuros | Monstruos |
 |--------|----------|-----------|
