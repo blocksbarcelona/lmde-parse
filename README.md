@@ -36,7 +36,7 @@ Los detalles técnicos completos están en [`requisitos-tecnicos-procesado.md`](
 
 ## Estado
 
-108 módulos PDF en total. Se procesan en orden cronológico inverso (más reciente primero).
+108 módulos PDF en total. Se procesan en orden cronológico inverso (más reciente primero). **50 procesados.**
 
 | Módulo | Conjuros | Monstruos |
 |--------|----------|-----------|
@@ -60,9 +60,39 @@ Los detalles técnicos completos están en [`requisitos-tecnicos-procesado.md`](
 | la-torre-del-sabio | — | ✓ |
 | ladrones-de-cadaveres | — | ✓ |
 | lme-el-senuelo | — | ✓ |
+| el-templo-del-dios-prohibido | — | ✓ |
+| UnBuenVino | — | ✓ |
+| Por_unas_Tinajas_de_Miel_2_revision | ✓ | ✓ |
+| el_secreto_von_dragonov | ? | ? |
+| la_tumba_de_jannus_el_cruel | — | ✓ |
+| el-aprendiz-de-mago | — | ✓ |
+| aprendiz-de-mago | — | ✓ |
+| lme-los-cristales-de-vexlaor | — | ✓ |
+| El_oro_de_las_Quebradas | — | ✓ |
+| Justos | — | — |
+| b18-la-perla-de-ayakashi | — | ✓ |
+| v2 | — | — |
+| Noches_de_venganza | — | ✓ |
+| La_Cripta_de_las_Sombras | — | ✓ |
+| la_estirpe_perdida | — | ✓ |
+| LaTorreDimensional | ✓ | ✓ |
+| ElPuebloBendecido | — | ✓ |
+| k1-en-compania-de-cuervos | — | ✓ |
+| c4-la-cupula-de-huesos-de-ixambel | ✓ | ✓ |
+| b13-sangre-en-la-nieve | — | ✓ |
+| justicia | — | ✓ |
+| b1-los-clonadores-de-tavuun-17 | — | ✓ |
+| G3-fronda-de-los-medianos | — | — |
+| el-bosque-negro | — | ✓ |
+| el-paramo | ✓ | ✓ |
+| b16-la-piramide-del-faraon-negro | ✓ | ✓ |
+| AELMDE_LaIslaRoja | — | ✓ |
+| elultimocaballerodelaordenescarlata | — | ✓ |
+| la-colina-del-avispon | — | ✓ |
+| la-cala | — | ✓ |
 
 ✓ = tiene contenido extraído · — = sin stats propias, remite al manual base
 
 ## Fuente
 
-Los módulos pertenecen a sus respectivos autores y a *Aventuras en la Marca del Este*. Este repositorio contiene únicamente datos estructurados extraídos con fines de referencia y estudio.
+Los módulos provienen del [Codex de la Marca del Este](https://codexdelamarca.com/), el repositorio oficial de aventuras y suplementos del juego. Pertenecen a sus respectivos autores y a *Aventuras en la Marca del Este*. Este repositorio contiene únicamente datos estructurados extraídos con fines de referencia y estudio.
