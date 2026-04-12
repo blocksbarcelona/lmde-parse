@@ -100,6 +100,8 @@ Los detalles técnicos completos están en [`requisitos-tecnicos-procesado.md`](
 | el_pantano_de_los_suspiros | — | ✓ |
 | b7-presentes-sangrientos | — | ✓ |
 | ho1-lo-que-el-ojo-no-ve | — | ✓ |
+| el-signo-rojo | — | ✓ |
+| b1-la-cripta-nefanda-de-uztun-el-maldito | — | ✓ |
 
 ✓ = tiene contenido extraído · — = sin stats propias, remite al manual base
 
