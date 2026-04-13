@@ -4,27 +4,16 @@ Archivos .rar y .zip del repositorio codexlmde que contienen módulos de aventur
 Flujo: descomprimir con `7z e`, extraer PDF/DOC a /tmp, subir a NotebookLM, procesar.
 Nota: los .doc se convierten primero a .txt con `textutil -convert txt`.
 
-## Por procesar (17 módulos)
+## Por procesar (6 módulos)
 
 | # | Archivo comprimido | PDF/doc dentro | Slug destino |
 |---|---|---|---|
-| 1 | `b14-vileza-en-el-bastion-de-los-bandidos.rar` | b14-vileza-en-el-bastion-de-los-bandidos.pdf | b14-vileza-en-el-bastion-de-los-bandidos |
-| 2 | `b17-el-bucaro-de-alabastro.rar` | b17-el-bucaro de-alabastro.pdf | b17-el-bucaro-de-alabastro |
-| 3 | `b22_el_dios_del_rio.rar` | EL DIOS DEL RIO.pdf | b22-el-dios-del-rio |
-| 4 | `el_castillo_de_piedra_negra.rar` | AME [El Contemplador] - El Castillo de Piedra Negra.pdf | el-castillo-de-piedra-negra |
-| 5 | `el_dedalo_de_la_casa_syldi.rar` | el dedalo de la casa syldi.pdf | el-dedalo-de-la-casa-syldi |
-| 6 | `el_presidio_de_Ibn_firnas.rar` | Aventura - La Prisión de Ibn Firnäs v1.0.pdf | el-presidio-de-ibn-firnas |
-| 7 | `el-tesoro-de-caliope.rar` | El tesoro de Caliope.pdf | el-tesoro-de-caliope |
-| 8 | `G1-un-paseo-por-el-campo.rar` | PDF Un paseo por el campo.pdf | G1-un-paseo-por-el-campo |
-| 9 | `G2-alameda.rar` | PDF Alameda.pdf | G2-alameda |
-| 10 | `la-llamada-de-los-dioses.rar` | La llamada de los dioses (Caja Negra).pdf | la-llamada-de-los-dioses |
-| 11 | `mn1-marjalnegro.rar` | Marjalnegro.pdf | mn1-marjalnegro |
-| 12 | `rescate-en-torrealba.rar` | rescateentorrealba.pdf | rescate-en-torrealba |
-| 13 | `una_extrana_enfermedad.rar` | UEE.pdf | una-extrana-enfermedad |
-| 14 | `v1-el-castillo-prohibido-de-la-reina-de-sangre.rar` | v1-el-castillo-prohibido-de-la-reina-de-sangre.pdf | v1-el-castillo-prohibido-de-la-reina-de-sangre |
-| 15 | `x2-el-arca-de-los-mil-inviernos.rar` | El Arca de los Mil Inviernos.pdf | x2-el-arca-de-los-mil-inviernos |
-| 16 | `x3-la-taiga-maldita.rar` | La Taiga Maldita.pdf | x3-la-taiga-maldita |
-| 17 | `la-llamada-de-los-dioses.rar` también incluye | La llamada de los dioses (Mapas).pdf | (mapas, omitir) |
+| 1 | `rescate-en-torrealba.rar` | rescateentorrealba.pdf | rescate-en-torrealba |
+| 2 | `una_extrana_enfermedad.rar` | UEE.pdf | una-extrana-enfermedad |
+| 3 | `v1-el-castillo-prohibido-de-la-reina-de-sangre.rar` | v1-el-castillo-prohibido-de-la-reina-de-sangre.pdf | v1-el-castillo-prohibido-de-la-reina-de-sangre |
+| 4 | `x2-el-arca-de-los-mil-inviernos.rar` | El Arca de los Mil Inviernos.pdf | x2-el-arca-de-los-mil-inviernos |
+| 5 | `x3-la-taiga-maldita.rar` | La Taiga Maldita.pdf | x3-la-taiga-maldita |
+| 6 | `la-llamada-de-los-dioses.rar` también incluye | La llamada de los dioses (Mapas).pdf | (mapas, omitir) |
 
 ## Ya procesados (desde comprimidos)
 
@@ -35,6 +24,17 @@ Nota: los .doc se convierten primero a .txt con `textutil -convert txt`.
 | `la-tumba-de-los-horrores.zip` | la-tumba-de-los-horrores | 2026-04-13 |
 | `elultimoviaje.zip` | elultimoviaje | 2026-04-13 |
 | `b6-tiempo-fuera-del-tiempo.rar` | b6-tiempo-fuera-del-tiempo | 2026-04-13 |
+| `b14-vileza-en-el-bastion-de-los-bandidos.rar` | b14-vileza-en-el-bastion-de-los-bandidos | 2026-04-13 |
+| `b17-el-bucaro-de-alabastro.rar` | b17-el-bucaro-de-alabastro | 2026-04-13 |
+| `b22_el_dios_del_rio.rar` | b22-el-dios-del-rio | 2026-04-13 |
+| `el_castillo_de_piedra_negra.rar` | el-castillo-de-piedra-negra | 2026-04-13 |
+| `el_dedalo_de_la_casa_syldi.rar` | el-dedalo-de-la-casa-syldi | 2026-04-13 |
+| `el_presidio_de_Ibn_firnas.rar` | el-presidio-de-ibn-firnas | 2026-04-13 |
+| `el-tesoro-de-caliope.rar` | el-tesoro-de-caliope | 2026-04-13 |
+| `G1-un-paseo-por-el-campo.rar` | G1-un-paseo-por-el-campo | 2026-04-13 |
+| `G2-alameda.rar` | G2-alameda | 2026-04-13 |
+| `la-llamada-de-los-dioses.rar` | la-llamada-de-los-dioses | 2026-04-13 |
+| `mn1-marjalnegro.rar` | mn1-marjalnegro | 2026-04-13 |
 | `b12-el-monasterio-del-dragon-dormido.rar` | b12-el-monasterio-del-dragon-dormido | 2026-04-13 |
 
 ## No procesar (sin contenido de aventura)

@@ -37,10 +37,21 @@ Los detalles técnicos completos están en [`requisitos-tecnicos-procesado.md`](
 ## Estado
 
 **124 módulos identificados** — 108 PDFs directos + 16 nuevos en archivos .rar/.zip.
-**112 procesados** (108 PDFs + 4 desde comprimidos). **16 pendientes** (en .rar, ver [`pendientes-comprimidos.md`](./pendientes-comprimidos.md)).
+**123 procesados** (108 PDFs + 15 desde comprimidos). **5 pendientes** (en .rar, ver [`pendientes-comprimidos.md`](./pendientes-comprimidos.md)).
 
 | Módulo | Fuente | Conjuros | Monstruos |
 |--------|--------|----------|-----------|
+| la-llamada-de-los-dioses | .rar | — | ✓ |
+| mn1-marjalnegro | .rar | — | ✓ |
+| G2-alameda | .rar | — | ✓ |
+| G1-un-paseo-por-el-campo | .rar | — | ✓ |
+| el-tesoro-de-caliope | .rar | — | ✓ |
+| el-presidio-de-ibn-firnas | .rar | — | ✓ |
+| el-dedalo-de-la-casa-syldi | .rar | — | ✓ |
+| el-castillo-de-piedra-negra | .rar | — | ✓ |
+| b22-el-dios-del-rio | .rar | — | ✓ |
+| b17-el-bucaro-de-alabastro | .rar | — | ✓ |
+| b14-vileza-en-el-bastion-de-los-bandidos | .rar | — | ✓ |
 | b6-tiempo-fuera-del-tiempo | .rar | — | ✓ |
 | b12-el-monasterio-del-dragon-dormido | .rar | — | ✓ |
 | la-tumba-de-los-horrores | .zip | — | ✓ |
