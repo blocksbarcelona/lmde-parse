@@ -36,10 +36,12 @@ Los detalles técnicos completos están en [`requisitos-tecnicos-procesado.md`](
 
 ## Estado
 
-108 módulos PDF en total. Se procesan en orden cronológico inverso (más reciente primero). **106 procesados.** Además, 19 módulos en archivos .rar/.zip pendientes de procesar (ver [`pendientes-comprimidos.md`](./pendientes-comprimidos.md)).
+108 módulos PDF en total. Se procesan en orden cronológico inverso (más reciente primero). **108 procesados.** Además, 17 módulos en archivos .rar/.zip pendientes de procesar (ver [`pendientes-comprimidos.md`](./pendientes-comprimidos.md)).
 
 | Módulo | Conjuros | Monstruos |
 |--------|----------|-----------|
+| b6-tiempo-fuera-del-tiempo | — | ✓ |
+| b12-el-monasterio-del-dragon-dormido | — | ✓ |
 | la-tumba-de-los-horrores | — | ✓ |
 | elultimoviaje | — | — |
 | la-montana-soberana-v2 | — | ✓ |
