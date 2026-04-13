@@ -4,21 +4,20 @@ Archivos .rar y .zip del repositorio codexlmde que contienen módulos de aventur
 Flujo: descomprimir con `7z e`, extraer PDF/DOC a /tmp, subir a NotebookLM, procesar.
 Nota: los .doc se convierten primero a .txt con `textutil -convert txt`.
 
-## Por procesar (6 módulos)
+## Por procesar (3 módulos)
 
 | # | Archivo comprimido | PDF/doc dentro | Slug destino |
 |---|---|---|---|
-| 1 | `rescate-en-torrealba.rar` | rescateentorrealba.pdf | rescate-en-torrealba |
-| 2 | `una_extrana_enfermedad.rar` | UEE.pdf | una-extrana-enfermedad |
-| 3 | `v1-el-castillo-prohibido-de-la-reina-de-sangre.rar` | v1-el-castillo-prohibido-de-la-reina-de-sangre.pdf | v1-el-castillo-prohibido-de-la-reina-de-sangre |
-| 4 | `x2-el-arca-de-los-mil-inviernos.rar` | El Arca de los Mil Inviernos.pdf | x2-el-arca-de-los-mil-inviernos |
-| 5 | `x3-la-taiga-maldita.rar` | La Taiga Maldita.pdf | x3-la-taiga-maldita |
-| 6 | `la-llamada-de-los-dioses.rar` también incluye | La llamada de los dioses (Mapas).pdf | (mapas, omitir) |
+| 1 | `v1-el-castillo-prohibido-de-la-reina-de-sangre.rar` | v1-el-castillo-prohibido-de-la-reina-de-sangre.pdf | v1-el-castillo-prohibido-de-la-reina-de-sangre |
+| 2 | `x2-el-arca-de-los-mil-inviernos.rar` | El Arca de los Mil Inviernos.pdf | x2-el-arca-de-los-mil-inviernos |
+| 3 | `x3-la-taiga-maldita.rar` | La Taiga Maldita.pdf | x3-la-taiga-maldita |
 
 ## Ya procesados (desde comprimidos)
 
 | Archivo comprimido | Módulo | Fecha |
 |---|---|---|
+| `rescate-en-torrealba.rar` | rescate-en-torrealba | 2026-04-13 |
+| `una_extrana_enfermedad.rar` | una-extrana-enfermedad | 2026-04-13 |
 | `el-oro-de-las-quebradas.zip` | El_oro_de_las_Quebradas | (sesión anterior) |
 | `s1-la-gesta-del-enano.rar` | s1-la-gesta-del-enano | (sesión anterior) |
 | `la-tumba-de-los-horrores.zip` | la-tumba-de-los-horrores | 2026-04-13 |

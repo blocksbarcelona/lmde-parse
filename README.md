@@ -37,10 +37,12 @@ Los detalles técnicos completos están en [`requisitos-tecnicos-procesado.md`](
 ## Estado
 
 **124 módulos identificados** — 108 PDFs directos + 16 desde archivos .rar/.zip.
-**119 procesados**. **5 pendientes** (en .rar, ver [`pendientes-comprimidos.md`](./pendientes-comprimidos.md)).
+**121 procesados**. **3 pendientes** (en .rar, ver [`pendientes-comprimidos.md`](./pendientes-comprimidos.md)).
 
 | Módulo | Fuente | Conjuros | Monstruos |
 |--------|--------|----------|-----------|
+| una-extrana-enfermedad | .rar | — | ✓ |
+| rescate-en-torrealba | .rar | ✓ | ✓ |
 | la-llamada-de-los-dioses | .rar | — | ✓ |
 | mn1-marjalnegro | .rar | — | ✓ |
 | G2-alameda | .rar | — | ✓ |
@@ -161,12 +163,10 @@ Los detalles técnicos completos están en [`requisitos-tecnicos-procesado.md`](
 | el-signo-rojo | PDF | — | ✓ |
 | b1-la-cripta-nefanda-de-uztun-el-maldito | PDF | — | ✓ |
 
-**Pendientes (5 módulos en .rar)**
+**Pendientes (3 módulos en .rar)**
 
 | Módulo | Fuente | Conjuros | Monstruos |
 |--------|--------|----------|-----------|
-| rescate-en-torrealba | .rar | ⏳ | ⏳ |
-| una-extrana-enfermedad | .rar | ⏳ | ⏳ |
 | v1-el-castillo-prohibido-de-la-reina-de-sangre | .rar | ⏳ | ⏳ |
 | x2-el-arca-de-los-mil-inviernos | .rar | ⏳ | ⏳ |
 | x3-la-taiga-maldita | .rar | ⏳ | ⏳ |
