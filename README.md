@@ -36,10 +36,14 @@ Los detalles técnicos completos están en [`requisitos-tecnicos-procesado.md`](
 
 ## Estado
 
-108 módulos PDF en total. Se procesan en orden cronológico inverso (más reciente primero). **100 procesados.**
+108 módulos PDF en total. Se procesan en orden cronológico inverso (más reciente primero). **104 procesados.**
 
 | Módulo | Conjuros | Monstruos |
 |--------|----------|-----------|
+| la-montana-soberana-v2 | — | ✓ |
+| la-caida-de-los-justos | — | ✓ |
+| el-santuario-olvidado-v2 | — | ✓ |
+| el-legado-perdido | — | ✓ |
 | b23-la-corona-del-nigromante | — | ✓ |
 | miedoalaoscuridad | ✓ | ✓ |
 | V3-el-ojo-de-sanna | — | ✓ |
