@@ -36,10 +36,15 @@ Los detalles técnicos completos están en [`requisitos-tecnicos-procesado.md`](
 
 ## Estado
 
-108 módulos PDF en total. Se procesan en orden cronológico inverso (más reciente primero). **85 procesados.**
+108 módulos PDF en total. Se procesan en orden cronológico inverso (más reciente primero). **90 procesados.**
 
 | Módulo | Conjuros | Monstruos |
 |--------|----------|-----------|
+| el_espectro_de_las_tormentas | — | ✓ |
+| atrapadoseneltiempo | — | ✓ |
+| nuestroshermanoscaidosenbatalla | — | ✓ |
+| el-despertar-1-el-tesoro-de-los-faraones | — | ✓ |
+| traicion | — | ✓ |
 | la-isla-del-terror | — | ✓ |
 | b9-la-ultima-frontera | ✓ | ✓ |
 | PS1-manual-de-psionica | — | ✓ |
