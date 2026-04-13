@@ -36,120 +36,142 @@ Los detalles técnicos completos están en [`requisitos-tecnicos-procesado.md`](
 
 ## Estado
 
-108 módulos PDF en total. Se procesan en orden cronológico inverso (más reciente primero). **108 procesados.** Además, 17 módulos en archivos .rar/.zip pendientes de procesar (ver [`pendientes-comprimidos.md`](./pendientes-comprimidos.md)).
+**124 módulos identificados** — 108 PDFs directos + 16 nuevos en archivos .rar/.zip.
+**112 procesados** (108 PDFs + 4 desde comprimidos). **16 pendientes** (en .rar, ver [`pendientes-comprimidos.md`](./pendientes-comprimidos.md)).
 
-| Módulo | Conjuros | Monstruos |
-|--------|----------|-----------|
-| b6-tiempo-fuera-del-tiempo | — | ✓ |
-| b12-el-monasterio-del-dragon-dormido | — | ✓ |
-| la-tumba-de-los-horrores | — | ✓ |
-| elultimoviaje | — | — |
-| la-montana-soberana-v2 | — | ✓ |
-| la-caida-de-los-justos | — | ✓ |
-| el-santuario-olvidado-v2 | — | ✓ |
-| el-legado-perdido | — | ✓ |
-| b23-la-corona-del-nigromante | — | ✓ |
-| miedoalaoscuridad | ✓ | ✓ |
-| V3-el-ojo-de-sanna | — | ✓ |
-| Pandemonium | — | ✓ |
-| b21_el_destino_del_rey_mono | — | ✓ |
-| b20-la-luz-de-valion | — | ✓ |
-| el-despertar-2-el-templo-del-desierto | ✓ | ✓ |
-| Ojos de Serpiente | — | ✓ |
-| HojasGemelas | — | ✓ |
-| Senderos en la Nieve | — | ✓ |
-| el_espectro_de_las_tormentas | — | ✓ |
-| atrapadoseneltiempo | — | ✓ |
-| nuestroshermanoscaidosenbatalla | — | ✓ |
-| el-despertar-1-el-tesoro-de-los-faraones | — | ✓ |
-| traicion | — | ✓ |
-| la-isla-del-terror | — | ✓ |
-| b9-la-ultima-frontera | ✓ | ✓ |
-| PS1-manual-de-psionica | — | ✓ |
-| el-despertar-3-la-venganza-del-sacerdote | ✓ | ✓ |
-| el-soberano-incapaz | — | ✓ |
-| b8-la-tumba-de-hielo | — | ✓ |
-| c3-el-jardin-negro | — | ✓ |
-| profanacion-mejorado | — | ✓ |
-| ig-nagor-mejorado | — | ✓ |
-| c2-la-catacumba-de-los-espantos-de-kavaduz | ✓ | ✓ |
-| ame-serpientes-entre-las-ramas | — | ✓ |
-| la-hija-del-gigante-de-hielo | — | ✓ |
-| no-profanaras-el-sueno-de-los-muertos | — | ✓ |
-| el-tumulo-perdido-de-azgoz-el-testarudo | — | ✓ |
-| el-valle-de-los-unicornios | — | ✓ |
-| Leviatan | — | ✓ |
-| laciudadperdidadegaran | — | ✓ |
-| b2-la-isla-misteriosa | — | ✓ |
-| mn2-la-balada-del-efimero-paladin | — | ✓ |
-| b3-el-orbe-de-amonhtep | ✓ | ✓ |
-| ct1-la-lagrima-de-zurah | — | ✓ |
-| laespadaenlaroca | — | ✓ |
-| b19-agitando-pozasdemugre | — | ✓ |
-| y-la-navidad | ✓ | ✓ |
-| xr1-la-ciudad-de-xorandor | ✓ | ✓ |
-| vientos_de_desesperacion | ✓ | ✓ |
-| vestireldungeon | — | — |
-| un-buen-licor | — | — |
-| tower_of_doom_capitulo_1 | — | — |
-| tn3-el-corazon-de-la-oscuridad | ✓ | ✓ |
-| tn2-el-feudo-en-llamas | ✓ | ✓ |
-| tn1-pacto-de-cenizas | ✓ | ✓ |
-| suplemento_reglas_ALMDE | — | — |
-| sepultura-del-honor | — | ✓ |
-| s1-la-gesta-del-enano | — | ✓ |
-| retorno-al-castillo-de-varania | — | ✓ |
-| retorno-a-brookmere | — | ✓ |
-| rastilon | — | ✓ |
-| pozos-envenenados | — | ✓ |
-| corona-de-sal | — | ✓ |
-| la-torre-del-sabio | — | ✓ |
-| ladrones-de-cadaveres | — | ✓ |
-| lme-el-senuelo | — | ✓ |
-| el-templo-del-dios-prohibido | — | ✓ |
-| UnBuenVino | — | ✓ |
-| Por_unas_Tinajas_de_Miel_2_revision | ✓ | ✓ |
-| el_secreto_von_dragonov | ? | ? |
-| la_tumba_de_jannus_el_cruel | — | ✓ |
-| el-aprendiz-de-mago | — | ✓ |
-| aprendiz-de-mago | — | ✓ |
-| lme-los-cristales-de-vexlaor | — | ✓ |
-| El_oro_de_las_Quebradas | — | ✓ |
-| Justos | — | — |
-| b18-la-perla-de-ayakashi | — | ✓ |
-| v2 | — | — |
-| Noches_de_venganza | — | ✓ |
-| La_Cripta_de_las_Sombras | — | ✓ |
-| la_estirpe_perdida | — | ✓ |
-| LaTorreDimensional | ✓ | ✓ |
-| ElPuebloBendecido | — | ✓ |
-| k1-en-compania-de-cuervos | — | ✓ |
-| c4-la-cupula-de-huesos-de-ixambel | ✓ | ✓ |
-| b13-sangre-en-la-nieve | — | ✓ |
-| justicia | — | ✓ |
-| b1-los-clonadores-de-tavuun-17 | — | ✓ |
-| G3-fronda-de-los-medianos | — | — |
-| el-bosque-negro | — | ✓ |
-| el-paramo | ✓ | ✓ |
-| b16-la-piramide-del-faraon-negro | ✓ | ✓ |
-| AELMDE_LaIslaRoja | — | ✓ |
-| elultimocaballerodelaordenescarlata | — | ✓ |
-| la-colina-del-avispon | — | ✓ |
-| la-cala | — | ✓ |
-| B4-muerte-en-la-mansion-del-mago-malifax | — | ✓ |
-| b15-las-minas-del-elefante | — | ✓ |
-| b5-incursion-a-la-tierra-del-dios-azul | — | ✓ |
-| b11-las-cuevas-del-clan-atronador | — | ✓ |
-| el-tumulo-del-rey-orco | — | ✓ |
-| el-legado-de-mushasi | — | ✓ |
-| laaldeaasoladaporlamuerte | — | ✓ |
-| el_pantano_de_los_suspiros | — | ✓ |
-| b7-presentes-sangrientos | — | ✓ |
-| ho1-lo-que-el-ojo-no-ve | — | ✓ |
-| el-signo-rojo | — | ✓ |
-| b1-la-cripta-nefanda-de-uztun-el-maldito | — | ✓ |
+| Módulo | Fuente | Conjuros | Monstruos |
+|--------|--------|----------|-----------|
+| b6-tiempo-fuera-del-tiempo | .rar | — | ✓ |
+| b12-el-monasterio-del-dragon-dormido | .rar | — | ✓ |
+| la-tumba-de-los-horrores | .zip | — | ✓ |
+| elultimoviaje | .zip | — | — |
+| la-montana-soberana-v2 | PDF | — | ✓ |
+| la-caida-de-los-justos | PDF | — | ✓ |
+| el-santuario-olvidado-v2 | PDF | — | ✓ |
+| el-legado-perdido | PDF | — | ✓ |
+| b23-la-corona-del-nigromante | PDF | — | ✓ |
+| miedoalaoscuridad | PDF | ✓ | ✓ |
+| V3-el-ojo-de-sanna | PDF | — | ✓ |
+| Pandemonium | PDF | — | ✓ |
+| b21_el_destino_del_rey_mono | PDF | — | ✓ |
+| b20-la-luz-de-valion | PDF | — | ✓ |
+| el-despertar-2-el-templo-del-desierto | PDF | ✓ | ✓ |
+| Ojos de Serpiente | PDF | — | ✓ |
+| HojasGemelas | PDF | — | ✓ |
+| Senderos en la Nieve | PDF | — | ✓ |
+| el_espectro_de_las_tormentas | PDF | — | ✓ |
+| atrapadoseneltiempo | PDF | — | ✓ |
+| nuestroshermanoscaidosenbatalla | PDF | — | ✓ |
+| el-despertar-1-el-tesoro-de-los-faraones | PDF | — | ✓ |
+| traicion | PDF | — | ✓ |
+| la-isla-del-terror | PDF | — | ✓ |
+| b9-la-ultima-frontera | PDF | ✓ | ✓ |
+| PS1-manual-de-psionica | PDF | — | ✓ |
+| el-despertar-3-la-venganza-del-sacerdote | PDF | ✓ | ✓ |
+| el-soberano-incapaz | PDF | — | ✓ |
+| b8-la-tumba-de-hielo | PDF | — | ✓ |
+| c3-el-jardin-negro | PDF | — | ✓ |
+| profanacion-mejorado | PDF | — | ✓ |
+| ig-nagor-mejorado | PDF | — | ✓ |
+| c2-la-catacumba-de-los-espantos-de-kavaduz | PDF | ✓ | ✓ |
+| ame-serpientes-entre-las-ramas | PDF | — | ✓ |
+| la-hija-del-gigante-de-hielo | PDF | — | ✓ |
+| no-profanaras-el-sueno-de-los-muertos | PDF | — | ✓ |
+| el-tumulo-perdido-de-azgoz-el-testarudo | PDF | — | ✓ |
+| el-valle-de-los-unicornios | PDF | — | ✓ |
+| Leviatan | PDF | — | ✓ |
+| laciudadperdidadegaran | PDF | — | ✓ |
+| b2-la-isla-misteriosa | PDF | — | ✓ |
+| mn2-la-balada-del-efimero-paladin | PDF | — | ✓ |
+| b3-el-orbe-de-amonhtep | PDF | ✓ | ✓ |
+| ct1-la-lagrima-de-zurah | PDF | — | ✓ |
+| laespadaenlaroca | PDF | — | ✓ |
+| b19-agitando-pozasdemugre | PDF | — | ✓ |
+| y-la-navidad | PDF | ✓ | ✓ |
+| xr1-la-ciudad-de-xorandor | PDF | ✓ | ✓ |
+| vientos_de_desesperacion | PDF | ✓ | ✓ |
+| vestireldungeon | PDF | — | — |
+| un-buen-licor | PDF | — | — |
+| tower_of_doom_capitulo_1 | PDF | — | — |
+| tn3-el-corazon-de-la-oscuridad | PDF | ✓ | ✓ |
+| tn2-el-feudo-en-llamas | PDF | ✓ | ✓ |
+| tn1-pacto-de-cenizas | PDF | ✓ | ✓ |
+| suplemento_reglas_ALMDE | PDF | — | — |
+| sepultura-del-honor | PDF | — | ✓ |
+| s1-la-gesta-del-enano | PDF | — | ✓ |
+| retorno-al-castillo-de-varania | PDF | — | ✓ |
+| retorno-a-brookmere | PDF | — | ✓ |
+| rastilon | PDF | — | ✓ |
+| pozos-envenenados | PDF | — | ✓ |
+| corona-de-sal | PDF | — | ✓ |
+| la-torre-del-sabio | PDF | — | ✓ |
+| ladrones-de-cadaveres | PDF | — | ✓ |
+| lme-el-senuelo | PDF | — | ✓ |
+| el-templo-del-dios-prohibido | PDF | — | ✓ |
+| UnBuenVino | PDF | — | ✓ |
+| Por_unas_Tinajas_de_Miel_2_revision | PDF | ✓ | ✓ |
+| el_secreto_von_dragonov | PDF | ? | ? |
+| la_tumba_de_jannus_el_cruel | PDF | — | ✓ |
+| el-aprendiz-de-mago | PDF | — | ✓ |
+| aprendiz-de-mago | PDF | — | ✓ |
+| lme-los-cristales-de-vexlaor | PDF | — | ✓ |
+| El_oro_de_las_Quebradas | PDF | — | ✓ |
+| Justos | PDF | — | — |
+| b18-la-perla-de-ayakashi | PDF | — | ✓ |
+| v2 | PDF | — | — |
+| Noches_de_venganza | PDF | — | ✓ |
+| La_Cripta_de_las_Sombras | PDF | — | ✓ |
+| la_estirpe_perdida | PDF | — | ✓ |
+| LaTorreDimensional | PDF | ✓ | ✓ |
+| ElPuebloBendecido | PDF | — | ✓ |
+| k1-en-compania-de-cuervos | PDF | — | ✓ |
+| c4-la-cupula-de-huesos-de-ixambel | PDF | ✓ | ✓ |
+| b13-sangre-en-la-nieve | PDF | — | ✓ |
+| justicia | PDF | — | ✓ |
+| b1-los-clonadores-de-tavuun-17 | PDF | — | ✓ |
+| G3-fronda-de-los-medianos | PDF | — | — |
+| el-bosque-negro | PDF | — | ✓ |
+| el-paramo | PDF | ✓ | ✓ |
+| b16-la-piramide-del-faraon-negro | PDF | ✓ | ✓ |
+| AELMDE_LaIslaRoja | PDF | — | ✓ |
+| elultimocaballerodelaordenescarlata | PDF | — | ✓ |
+| la-colina-del-avispon | PDF | — | ✓ |
+| la-cala | PDF | — | ✓ |
+| B4-muerte-en-la-mansion-del-mago-malifax | PDF | — | ✓ |
+| b15-las-minas-del-elefante | PDF | — | ✓ |
+| b5-incursion-a-la-tierra-del-dios-azul | PDF | — | ✓ |
+| b11-las-cuevas-del-clan-atronador | PDF | — | ✓ |
+| el-tumulo-del-rey-orco | PDF | — | ✓ |
+| el-legado-de-mushasi | PDF | — | ✓ |
+| laaldeaasoladaporlamuerte | PDF | — | ✓ |
+| el_pantano_de_los_suspiros | PDF | — | ✓ |
+| b7-presentes-sangrientos | PDF | — | ✓ |
+| ho1-lo-que-el-ojo-no-ve | PDF | — | ✓ |
+| el-signo-rojo | PDF | — | ✓ |
+| b1-la-cripta-nefanda-de-uztun-el-maldito | PDF | — | ✓ |
 
-✓ = tiene contenido extraído · — = sin stats propias, remite al manual base
+**Pendientes (16 módulos en .rar)**
+
+| Módulo | Fuente | Conjuros | Monstruos |
+|--------|--------|----------|-----------|
+| b14-vileza-en-el-bastion-de-los-bandidos | .rar | ⏳ | ⏳ |
+| b17-el-bucaro-de-alabastro | .rar | ⏳ | ⏳ |
+| b22-el-dios-del-rio | .rar | ⏳ | ⏳ |
+| el-castillo-de-piedra-negra | .rar | ⏳ | ⏳ |
+| el-dedalo-de-la-casa-syldi | .rar | ⏳ | ⏳ |
+| el-presidio-de-ibn-firnas | .rar | ⏳ | ⏳ |
+| el-tesoro-de-caliope | .rar | ⏳ | ⏳ |
+| G1-un-paseo-por-el-campo | .rar | ⏳ | ⏳ |
+| G2-alameda | .rar | ⏳ | ⏳ |
+| la-llamada-de-los-dioses | .rar | ⏳ | ⏳ |
+| mn1-marjalnegro | .rar | ⏳ | ⏳ |
+| rescate-en-torrealba | .rar | ⏳ | ⏳ |
+| una-extrana-enfermedad | .rar | ⏳ | ⏳ |
+| v1-el-castillo-prohibido-de-la-reina-de-sangre | .rar | ⏳ | ⏳ |
+| x2-el-arca-de-los-mil-inviernos | .rar | ⏳ | ⏳ |
+| x3-la-taiga-maldita | .rar | ⏳ | ⏳ |
+
+✓ = tiene contenido extraído · — = sin stats propias · ⏳ = pendiente · ? = PDF escaneado, no procesable
 
 ## Fuente
 
