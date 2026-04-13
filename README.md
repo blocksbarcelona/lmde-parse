@@ -36,10 +36,33 @@ Los detalles técnicos completos están en [`requisitos-tecnicos-procesado.md`](
 
 ## Estado
 
-108 módulos PDF en total. Se procesan en orden cronológico inverso (más reciente primero). **62 procesados.**
+108 módulos PDF en total. Se procesan en orden cronológico inverso (más reciente primero). **85 procesados.**
 
 | Módulo | Conjuros | Monstruos |
 |--------|----------|-----------|
+| la-isla-del-terror | — | ✓ |
+| b9-la-ultima-frontera | ✓ | ✓ |
+| PS1-manual-de-psionica | — | ✓ |
+| el-despertar-3-la-venganza-del-sacerdote | ✓ | ✓ |
+| el-soberano-incapaz | — | ✓ |
+| b8-la-tumba-de-hielo | — | ✓ |
+| c3-el-jardin-negro | — | ✓ |
+| profanacion-mejorado | — | ✓ |
+| ig-nagor-mejorado | — | ✓ |
+| c2-la-catacumba-de-los-espantos-de-kavaduz | ✓ | ✓ |
+| ame-serpientes-entre-las-ramas | — | ✓ |
+| la-hija-del-gigante-de-hielo | — | ✓ |
+| no-profanaras-el-sueno-de-los-muertos | — | ✓ |
+| el-tumulo-perdido-de-azgoz-el-testarudo | — | ✓ |
+| el-valle-de-los-unicornios | — | ✓ |
+| Leviatan | — | ✓ |
+| laciudadperdidadegaran | — | ✓ |
+| b2-la-isla-misteriosa | — | ✓ |
+| mn2-la-balada-del-efimero-paladin | — | ✓ |
+| b3-el-orbe-de-amonhtep | ✓ | ✓ |
+| ct1-la-lagrima-de-zurah | — | ✓ |
+| laespadaenlaroca | — | ✓ |
+| b19-agitando-pozasdemugre | — | ✓ |
 | y-la-navidad | ✓ | ✓ |
 | xr1-la-ciudad-de-xorandor | ✓ | ✓ |
 | vientos_de_desesperacion | ✓ | ✓ |
