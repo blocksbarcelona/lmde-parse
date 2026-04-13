@@ -36,10 +36,12 @@ Los detalles técnicos completos están en [`requisitos-tecnicos-procesado.md`](
 
 ## Estado
 
-108 módulos PDF en total. Se procesan en orden cronológico inverso (más reciente primero). **104 procesados.**
+108 módulos PDF en total. Se procesan en orden cronológico inverso (más reciente primero). **106 procesados.** Además, 19 módulos en archivos .rar/.zip pendientes de procesar (ver [`pendientes-comprimidos.md`](./pendientes-comprimidos.md)).
 
 | Módulo | Conjuros | Monstruos |
 |--------|----------|-----------|
+| la-tumba-de-los-horrores | — | ✓ |
+| elultimoviaje | — | — |
 | la-montana-soberana-v2 | — | ✓ |
 | la-caida-de-los-justos | — | ✓ |
 | el-santuario-olvidado-v2 | — | ✓ |
