@@ -36,8 +36,8 @@ Los detalles técnicos completos están en [`requisitos-tecnicos-procesado.md`](
 
 ## Estado
 
-**124 módulos identificados** — 108 PDFs directos + 16 nuevos en archivos .rar/.zip.
-**123 procesados** (108 PDFs + 15 desde comprimidos). **5 pendientes** (en .rar, ver [`pendientes-comprimidos.md`](./pendientes-comprimidos.md)).
+**124 módulos identificados** — 108 PDFs directos + 16 desde archivos .rar/.zip.
+**119 procesados**. **5 pendientes** (en .rar, ver [`pendientes-comprimidos.md`](./pendientes-comprimidos.md)).
 
 | Módulo | Fuente | Conjuros | Monstruos |
 |--------|--------|----------|-----------|
@@ -161,21 +161,10 @@ Los detalles técnicos completos están en [`requisitos-tecnicos-procesado.md`](
 | el-signo-rojo | PDF | — | ✓ |
 | b1-la-cripta-nefanda-de-uztun-el-maldito | PDF | — | ✓ |
 
-**Pendientes (16 módulos en .rar)**
+**Pendientes (5 módulos en .rar)**
 
 | Módulo | Fuente | Conjuros | Monstruos |
 |--------|--------|----------|-----------|
-| b14-vileza-en-el-bastion-de-los-bandidos | .rar | ⏳ | ⏳ |
-| b17-el-bucaro-de-alabastro | .rar | ⏳ | ⏳ |
-| b22-el-dios-del-rio | .rar | ⏳ | ⏳ |
-| el-castillo-de-piedra-negra | .rar | ⏳ | ⏳ |
-| el-dedalo-de-la-casa-syldi | .rar | ⏳ | ⏳ |
-| el-presidio-de-ibn-firnas | .rar | ⏳ | ⏳ |
-| el-tesoro-de-caliope | .rar | ⏳ | ⏳ |
-| G1-un-paseo-por-el-campo | .rar | ⏳ | ⏳ |
-| G2-alameda | .rar | ⏳ | ⏳ |
-| la-llamada-de-los-dioses | .rar | ⏳ | ⏳ |
-| mn1-marjalnegro | .rar | ⏳ | ⏳ |
 | rescate-en-torrealba | .rar | ⏳ | ⏳ |
 | una-extrana-enfermedad | .rar | ⏳ | ⏳ |
 | v1-el-castillo-prohibido-de-la-reina-de-sangre | .rar | ⏳ | ⏳ |
