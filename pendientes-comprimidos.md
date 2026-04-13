@@ -4,18 +4,17 @@ Archivos .rar y .zip del repositorio codexlmde que contienen módulos de aventur
 Flujo: descomprimir con `7z e`, extraer PDF/DOC a /tmp, subir a NotebookLM, procesar.
 Nota: los .doc se convierten primero a .txt con `textutil -convert txt`.
 
-## Por procesar (3 módulos)
+## Por procesar (0 módulos)
 
-| # | Archivo comprimido | PDF/doc dentro | Slug destino |
-|---|---|---|---|
-| 1 | `v1-el-castillo-prohibido-de-la-reina-de-sangre.rar` | v1-el-castillo-prohibido-de-la-reina-de-sangre.pdf | v1-el-castillo-prohibido-de-la-reina-de-sangre |
-| 2 | `x2-el-arca-de-los-mil-inviernos.rar` | El Arca de los Mil Inviernos.pdf | x2-el-arca-de-los-mil-inviernos |
-| 3 | `x3-la-taiga-maldita.rar` | La Taiga Maldita.pdf | x3-la-taiga-maldita |
+*Todos los módulos han sido procesados.*
 
 ## Ya procesados (desde comprimidos)
 
 | Archivo comprimido | Módulo | Fecha |
 |---|---|---|
+| `v1-el-castillo-prohibido-de-la-reina-de-sangre.rar` | v1-el-castillo-prohibido-de-la-reina-de-sangre | 2026-04-13 |
+| `x2-el-arca-de-los-mil-inviernos.rar` | x2-el-arca-de-los-mil-inviernos | 2026-04-13 |
+| `x3-la-taiga-maldita.rar` | x3-la-taiga-maldita | 2026-04-13 |
 | `rescate-en-torrealba.rar` | rescate-en-torrealba | 2026-04-13 |
 | `una_extrana_enfermedad.rar` | una-extrana-enfermedad | 2026-04-13 |
 | `el-oro-de-las-quebradas.zip` | El_oro_de_las_Quebradas | (sesión anterior) |
