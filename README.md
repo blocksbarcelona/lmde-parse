@@ -36,10 +36,20 @@ Los detalles técnicos completos están en [`requisitos-tecnicos-procesado.md`](
 
 ## Estado
 
-108 módulos PDF en total. Se procesan en orden cronológico inverso (más reciente primero). **90 procesados.**
+108 módulos PDF en total. Se procesan en orden cronológico inverso (más reciente primero). **100 procesados.**
 
 | Módulo | Conjuros | Monstruos |
 |--------|----------|-----------|
+| b23-la-corona-del-nigromante | — | ✓ |
+| miedoalaoscuridad | ✓ | ✓ |
+| V3-el-ojo-de-sanna | — | ✓ |
+| Pandemonium | — | ✓ |
+| b21_el_destino_del_rey_mono | — | ✓ |
+| b20-la-luz-de-valion | — | ✓ |
+| el-despertar-2-el-templo-del-desierto | ✓ | ✓ |
+| Ojos de Serpiente | — | ✓ |
+| HojasGemelas | — | ✓ |
+| Senderos en la Nieve | — | ✓ |
 | el_espectro_de_las_tormentas | — | ✓ |
 | atrapadoseneltiempo | — | ✓ |
 | nuestroshermanoscaidosenbatalla | — | ✓ |
