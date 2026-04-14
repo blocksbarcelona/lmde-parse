@@ -181,13 +181,18 @@ Este sistema de memoria permite retomar el trabajo en sesiones futuras sin perde
 
 ---
 
-## Post-Procesado: Extracción de Monstruos y PNJs
+## Post-Procesado: Extracción de Monstruos, PNJs y Conjuros
 
-Una vez generados los documentos en la carpeta `procesados/`, se utiliza un script en Python (`scripts/extractor_monstruos.py`) para consolidar y clasificar todas las entidades de los archivos `-monstruos.md` en dos categorías:
+Una vez generados los documentos en la carpeta `procesados/`, se utilizan dos scripts en Python (`scripts/extractor_monstruos.py` y `scripts/extractor_conjuros.py`) para consolidar todas las entidades generadas.
+
+Por un lado, con los monstruos:
 1. **PNJs**: Se identifican aplicando una heurística de palabras clave referidas a clases humanoides (ej: mago, guerrero, ladrón, aldeano, etc.) en su nombre o texto adjunto. El resultado se guarda en `PNJs.md`.
 2. **Monstruos**: El resto de las entidades, guardadas en `monstruos.md`.
 
-Ambos archivos generados en la raíz recogen de forma desduplicada cada entidad, el bloque íntegro de sus variables mecánicas, y las aventuras específicas en las que aparecen. Al final de los documentos se anexa un listado ordenado descendentemente por frecuencia de aparición.
+Por otro lado, con los conjuros:
+Se agrupan todas las entradas de archivos terminados en `-conjuros.md` (omitiendo aquellos documentos sin estadísticas de magia) y se consolidan en `conjuros.md`.
+
+Los tres archivos generados en la raíz recogen de forma desduplicada cada entidad, el bloque íntegro de sus variables mecánicas, y las aventuras específicas en las que aparecen. Al final de los documentos se anexa un listado ordenado descendentemente por frecuencia de aparición.
 
 ---
 

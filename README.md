@@ -17,9 +17,11 @@ Si un módulo no contiene conjuros o monstruos propios (solo referencias al manu
 lmde-parse/
 ├── README.md
 ├── requisitos-tecnicos-procesado.md   # Cómo se genera este contenido
+├── conjuros.md                        # Recopilación general de conjuros desduplicada
 ├── monstruos.md                       # Recopilación general de monstruos desduplicada
 ├── PNJs.md                            # Recopilación general de PNJs desduplicada
 ├── scripts/
+│   ├── extractor_conjuros.py          # Script para agrupar conjuros
 │   └── extractor_monstruos.py         # Script para generar las recopilaciones globales
 └── procesados/
     ├── <modulo>-conjuros.md
@@ -35,7 +37,7 @@ El proceso está completamente automatizado usando **Claude Code** con la skill 
 2. Se sube a un notebook central de Google NotebookLM.
 3. Claude consulta el documento (aislado por `source_id`) para extraer conjuros y monstruos.
 4. Los resultados se guardan por separado como Markdown estructurado en `procesados/`.
-5. Finalmente, se ejecuta `python3 scripts/extractor_monstruos.py` para consolidar todas las entidades extraídas en `monstruos.md` y `PNJs.md`.
+5. Finalmente, se ejecutan `python3 scripts/extractor_monstruos.py` y `python3 scripts/extractor_conjuros.py` para consolidar todas las entidades extraídas en los documentos raíz `monstruos.md`, `PNJs.md` y `conjuros.md`.
 
 Los detalles técnicos completos están en [`requisitos-tecnicos-procesado.md`](./requisitos-tecnicos-procesado.md).
 
