@@ -34,10 +34,20 @@ def extract_conjuros():
             if not block or not name: return
             
             clean = name.strip()
+            level = 99
+            for line in block:
+                # Busca el nivel numérico
+                if "nivel" in line.lower():
+                    m = re.search(r'Nivel.*?(\d+)', line, re.IGNORECASE)
+                    if m:
+                        level = int(m.group(1))
+                        break
+            
             if clean not in conjuros:
                 conjuros[clean] = {
                     'block': '\n'.join(block).strip(),
-                    'adventures': {adv_name}
+                    'adventures': {adv_name},
+                    'level': level
                 }
             else:
                 conjuros[clean]['adventures'].add(adv_name)
@@ -68,7 +78,8 @@ def extract_conjuros():
             process_entity(current_block, current_name, adventure_name)
             
     # Escribir salida
-    sorted_keys = sorted(conjuros.keys(), key=lambda x: x.lower())
+    # Ordenar por el nivel del conjuro de forma ascendente, y luego alfabéticamente
+    sorted_keys = sorted(conjuros.keys(), key=lambda x: (conjuros[x]['level'], x.lower()))
     
     with open('conjuros.md', 'w', encoding='utf-8') as f:
         f.write("# Conjuros\n\n")
